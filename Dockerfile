@@ -2,4 +2,4 @@
 From tomcat:8-jre8 
 
 
-COPY ./target/SampleWebApp*.war /usr/local/tomcat/webapps
+COPY ./target/SampleWebApp.war /usr/local/tomcat/webapps/
